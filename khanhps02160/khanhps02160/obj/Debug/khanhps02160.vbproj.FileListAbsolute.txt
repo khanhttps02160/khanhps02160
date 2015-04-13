@@ -1,0 +1,17 @@
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\bin\Debug\khanhps02160.exe.config
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\bin\Debug\khanhps02160.exe
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\bin\Debug\khanhps02160.pdb
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\bin\Debug\khanhps02160.xml
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.Resources.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.vbproj.GenerateResource.Cache
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.exe
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.xml
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.pdb
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.Login.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.QLSP.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.Main.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.KhachHang.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.Chitiethoadon.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.HoaDon.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.LoaiSP.resources
+E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.NhanVien.resources
