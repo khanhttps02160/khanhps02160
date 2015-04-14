@@ -15,3 +15,7 @@ E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.Chitieth
 E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.HoaDon.resources
 E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.LoaiSP.resources
 E:\dammay\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.NhanVien.resources
+C:\Users\KHANH\Downloads\khanhps02160\khanhps02160\khanhps02160\bin\Debug\khanhps02160.exe.config
+C:\Users\KHANH\Downloads\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.exe
+C:\Users\KHANH\Downloads\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.xml
+C:\Users\KHANH\Downloads\khanhps02160\khanhps02160\khanhps02160\obj\Debug\khanhps02160.pdb
